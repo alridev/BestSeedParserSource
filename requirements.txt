@@ -1,0 +1,15 @@
+aiofiles==23.2.1
+async_timeout==4.0.3
+beautifulsoup4==4.11.1
+docx2txt==0.8
+ezodf==0.3.2
+pymupdf==1.23.7
+fs==2.4.16
+mnemonic==0.20
+opentele==1.15.1
+pyAesCrypt==6.1.1
+python_socks==2.3.0
+pytz==2023.3
+Requests==2.31.0
+rich==13.7.0
+lxml==4.9.3
