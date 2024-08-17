@@ -1,0 +1,8 @@
+info:
+  - name: $BSP
+    description: Best seed parser
+    preview: https://i.imgur.com/V2MW66J.png
+    tag: Parsers
+options:
+  - index: 99
+    hide: false
